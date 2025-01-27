@@ -44,6 +44,7 @@
             {
                 "trigger_type": "output",
                 "type": "ftp",
+                "version": "v2",
                 "name": "Save Orders to FTP",
                 "key": "out-save-orders-to-ftp",
                 "script": "out_save_orders_to_ftp.js",

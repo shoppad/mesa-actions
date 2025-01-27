@@ -21,6 +21,7 @@
                 "trigger_type": "input",
                 "enabled": false,
                 "type": "ftp",
+                "version": "v2",
                 "name": "Kitchen Sink FTP",
                 "key": "in-kitchen-sink-ftp",
                 "trigger_name": "In: Kitchen Sink FTP",
